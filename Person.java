@@ -11,5 +11,9 @@ public class Person
 	  otherNames = "";
 	  familyName = new Sring();
   }
+  public getAge(int age)
+  {
+	  return age;
 
+	  }
 }
