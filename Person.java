@@ -16,4 +16,9 @@ public class Person
 	  return age;
 
 	  }
+  public getFullName(String firstName, String otherNames, String familyName)
+  {
+	  String fullName = firstName + " " + otherNames + " " + familyName
+	  return fullName
+	  }
 }
