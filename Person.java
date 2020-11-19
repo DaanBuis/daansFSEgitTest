@@ -21,4 +21,7 @@ public class Person
 	  String fullName = firstName + " " + otherNames + " " + familyName
 	  return fullName
 	  }
+ public void toString()
+ {
+	 }
 }
